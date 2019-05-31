@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux'
-import authedUser from './authed/User'
+import authedUser from './authedUser'
 import users from './users'
 import tweets from './tweets'
 
